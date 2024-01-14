@@ -1,2 +1,2 @@
-# ESvje-beTolerancije
+# ESvjezbeTolerancije
 Elementi strojeva - vježbe iz dijela Tolerancije
