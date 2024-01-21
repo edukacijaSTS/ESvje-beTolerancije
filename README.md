@@ -1,2 +1,2 @@
 # ESvjezbeTolerancije
-Elementi strojeva - vježbe iz dijela Tolerancije
+Vježbe iz predmeta Elementi strojeva - dio 1 - tolerancije
